@@ -1,1 +1,1 @@
-Hello, this is my first repo!
+This is a new text in a brand new branch!
